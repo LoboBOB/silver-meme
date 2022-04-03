@@ -1,0 +1,17 @@
+[
+    {
+      "title":"Вебзайм",
+      "image":"http://i.otzovik.com/objects/b/1190000/1187029.png",
+      "rating":"5/5",
+      "more_data":"дополнительная информация об оффере находится здеся",
+      "sub":"1",
+      "isAvailable":true
+    },
+      {
+      "title":"Вебзайм",
+      "image":"http://i.otzovik.com/objects/b/1190000/1187029.png",
+      "rating":"5/5",
+      "more_data":"дополнительная информация об оффере находится здеся",
+      "sub":"2",
+      "isAvailable":false
+    }]
